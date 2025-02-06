@@ -25,7 +25,7 @@ This project contains end-to-end (E2E) tests for the Ducati Scrambler image gene
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/your-username/ducatiScrambler.git
+   git clone https://github.com/namita-suhaney/ducatiScrambler.git
    cd ducatiScrambler
 
 2. npm install
