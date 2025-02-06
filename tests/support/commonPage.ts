@@ -1,7 +1,7 @@
 import { expect, Page } from "@playwright/test";
 
 export class CommonPage {
-  constructor(private page: Page) {}
+  constructor(public page: Page) {}
 
   async goTo(path: string = "") {
     //To use the relative path
